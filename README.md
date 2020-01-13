@@ -9,7 +9,7 @@ Table Of Contents:
 
 [1. Curriculum-課程表](../../wiki/Curriculum)   
 参考：https://eng-entrance.com/category/java/java-question
-
+[Java言語使用Java9](https://docs.oracle.com/javase/specs/jls/se9/jls9.pdf)
 
 [2. Workspace-ワークスペースの準備](../../wiki/Project-JavaBasic)   
 ワークスペースにあるプロジェクト、ソースフォルダー、パッケージ、クラスなどの作成方法。
