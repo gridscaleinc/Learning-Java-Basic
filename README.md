@@ -7,7 +7,7 @@ wechat: [domanthan](weixin://dl/chat?domanthan)
 
 Table Of Contents:
 
-[1. Curriculum-課程表](../../wiki/02.課程表（カリキュラム）   
+[1. Curriculum-課程表](../../wiki/02.課程表（カリキュラム）)   
 [Java言語使用Java9](https://docs.oracle.com/javase/specs/jls/se9/jls9.pdf)
 
 [2. Workspace-ワークスペースの準備](../../wiki/03.Project-JavaBasic)   
